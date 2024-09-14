@@ -1,0 +1,12 @@
+Elemento[] filaAtendimento = new Elemento[] {
+    new Elemento("CLI001", "Mario Silva", "Dúvida sobre produto"),
+    new Elemento("CLI002", "Rodrigo Teodoro", "Reclamação de serviço"),
+    new Elemento("CLI003", "Ana Dias", "Solicitação de reembolso"),
+    new Elemento("CLI004", "Arthur costa", "Informações de entrega"),
+    new Elemento("CLI005", "Joao souza", "Agendamento de visita"),
+    new Elemento("CLI006", "Antonia pereira", "Alteração de pedido"),
+    new Elemento("CLI007", "Joaquim pedroso", "Cancelamento de contrato"),
+    new Elemento("CLI008", "Rafaela leite", "Renovação de assinatura"),
+    new Elemento("CLI009", "Murilo Gomes", "Suporte para instalação"),
+    new Elemento("CLI010", "JÔ Soares", "Pedido de orçamento")
+};

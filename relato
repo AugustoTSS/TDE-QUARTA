@@ -1,0 +1,12 @@
+Elemento[] historico = new Elemento[] {
+    new Elemento("REQ001", "Instalação software", "2024-08-29 11:30"),
+    new Elemento("REQ002", "Manutenção preventiva", "2024-08-29 12:00"),
+    new Elemento("REQ003", "Atualização sistema", "2024-08-29 13:30"),
+    new Elemento("REQ004", "Suporte", "2024-08-29 13:00"),
+    new Elemento("REQ005", "Trocaequipamento", "2024-08-29 14:30"),
+    new Elemento("REQ006", "Consultae garantia", "2024-08-29 15:00"),
+    new Elemento("REQ007", "Reparo impressora", "2024-08-29 16:30"),
+    new Elemento("REQ008", "Configuração rede", "2024-08-29 16:00"),
+    new Elemento("REQ009", "Restauração dados", "2024-08-29 17:30"),
+    new Elemento("REQ010", "Consulta técnica", "2024-08-20 17:00")
+};
